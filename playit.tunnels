@@ -9,28 +9,28 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "music-sensors.gl.joinmc.link",
-          "assigned_srv": "music-sensors.gl.joinmc.link",
+          "assigned_domain": "traffic-adjacent.gl.joinmc.link",
+          "assigned_srv": "traffic-adjacent.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "1ddb8c33-944e-4f62-81b5-5cdc50808e33",
+          "id": "53641110-a24f-4d66-90c9-e279b7048d4e",
           "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 26361,
-          "port_start": 26360,
+          "port_end": 37204,
+          "port_start": 37203,
           "region": "global",
           "static_ip4": "147.185.221.20",
           "tunnel_ip": "2602:fbaf:0:1::14"
         },
         "status": "allocated"
       },
-      "created_at": "2024-06-22T13:50:51.572542Z",
+      "created_at": "2024-06-22T16:51:41.298490Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "9e3b4b82-1b2d-4ab3-ae27-9df487c7bd9e",
+      "id": "d4f1136b-8bf3-4216-90ef-51ba12412dc7",
       "name": "Minecraft Java",
       "origin": {
         "data": {
